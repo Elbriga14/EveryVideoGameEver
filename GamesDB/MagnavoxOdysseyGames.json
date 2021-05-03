@@ -1,0 +1,170 @@
+[
+  {
+    "Game": "Table Tennis",
+    "Description": "Two players use paddles to knock a ball back and forth on a screen; does not use an overlay",
+    "Platform": "la Magnavox Odyssey",
+    "PlatformLink": "https://en.wikipedia.org/wiki/Magnavox_Odyssey"
+  },
+  {
+    "Game": "Ski",
+    "Description": "One player moves a dot representing a skier back and forth as they go down a mountain path; players must keep track of their own time and penalties",
+    "Platform": "la Magnavox Odyssey",
+    "PlatformLink": "https://en.wikipedia.org/wiki/Magnavox_Odyssey"
+  },
+  {
+    "Game": "Simon Says",
+    "Description": "A three player game where two players must race to touch the body part of their chosen character's picture when the third player tells them to, based on a deck of Simon Says cards",
+    "Platform": "la Magnavox Odyssey",
+    "PlatformLink": "https://en.wikipedia.org/wiki/Magnavox_Odyssey"
+  },
+  {
+    "Game": "Tennis",
+    "Description": "Two players use paddles to knock a ball back and forth on a screen; uses an overlay of a tennis court and players are intended to follow the rules of tennis",
+    "Platform": "la Magnavox Odyssey",
+    "PlatformLink": "https://en.wikipedia.org/wiki/Magnavox_Odyssey"
+  },
+  {
+    "Game": "Analogic",
+    "Description": "A math game where players can move to either squares depicted on the overlay based on if the number on the square is even or odd and is the sum of the other player's move and another number",
+    "Platform": "la Magnavox Odyssey",
+    "PlatformLink": "https://en.wikipedia.org/wiki/Magnavox_Odyssey"
+  },
+  {
+    "Game": "Hockey",
+    "Description": "Two players use paddles to knock a ball back and forth on a screen; uses an overlay of a hockey rink and players score only if the puck reaches the opponent's goal on the overlay",
+    "Platform": "la Magnavox Odyssey",
+    "PlatformLink": "https://en.wikipedia.org/wiki/Magnavox_Odyssey"
+  },
+  {
+    "Game": "Football",
+    "Description": "Two players use a combination of on-screen movement, dice, and play cards to simulate a game of football; kickoff, passing, and punting plays use Card #3, while running plays use Card #4",
+    "Platform": "la Magnavox Odyssey",
+    "PlatformLink": "https://en.wikipedia.org/wiki/Magnavox_Odyssey"
+  },
+  {
+    "Game": "Cat and Mouse",
+    "Description": "A two player chase game played on a grid, with the mouse attempting to return to its house before the cat catches it",
+    "Platform": "la Magnavox Odyssey",
+    "PlatformLink": "https://en.wikipedia.org/wiki/Magnavox_Odyssey"
+  },
+  {
+    "Game": "Haunted House",
+    "Description": "A two player chase game played on a haunted house overlay, with the detective trying to collect all of the clue cards without being caught by the ghost",
+    "Platform": "la Magnavox Odyssey",
+    "PlatformLink": "https://en.wikipedia.org/wiki/Magnavox_Odyssey"
+  },
+  {
+    "Game": "Submarine",
+    "Description": "A target shooting game, with one player moving a submarine along shipping lanes and the other player using their spot as a torpedo",
+    "Platform": "la Magnavox Odyssey",
+    "PlatformLink": "https://en.wikipedia.org/wiki/Magnavox_Odyssey"
+  },
+  {
+    "Game": "Roulette",
+    "Description": "A game of chance where players bet with chips, and randomly spin their controller dial to launch a spot at a roulette wheel overlay",
+    "Platform": "la Magnavox Odyssey",
+    "PlatformLink": "https://en.wikipedia.org/wiki/Magnavox_Odyssey"
+  },
+  {
+    "Game": "States",
+    "Description": "An educational game played with an overlay of the United States and a deck of fifty trivia cards with questions about each state",
+    "Platform": "la Magnavox Odyssey",
+    "PlatformLink": "https://en.wikipedia.org/wiki/Magnavox_Odyssey"
+  },
+  {
+    "Game": "Fun Zoo",
+    "Description": "A racing game using an overlay of a zoo, with a third player drawing animal cards for the players to race to",
+    "Platform": "la Magnavox Odyssey",
+    "PlatformLink": "https://en.wikipedia.org/wiki/Magnavox_Odyssey"
+  },
+  {
+    "Game": "Baseball",
+    "Description": "Two players use a combination of on-screen movement, dice, and play cards to simulate a game of baseball",
+    "Platform": "la Magnavox Odyssey",
+    "PlatformLink": "https://en.wikipedia.org/wiki/Magnavox_Odyssey"
+  },
+  {
+    "Game": "Invasion",
+    "Description": "A combination of strategic moves made on a separate game board and tactical combat resolved on the screen; different assaults use different cards",
+    "Platform": "la Magnavox Odyssey",
+    "PlatformLink": "https://en.wikipedia.org/wiki/Magnavox_Odyssey"
+  },
+  {
+    "Game": "Wipeout",
+    "Description": "A racing game using both a track overlay and a game board; the game board keeps track of laps and the second player's dot along with the ball dot keeps time",
+    "Platform": "la Magnavox Odyssey",
+    "PlatformLink": "https://en.wikipedia.org/wiki/Magnavox_Odyssey"
+  },
+  {
+    "Game": "Volleyball",
+    "Description": "Two players use paddles to knock a ball back and forth on a screen; uses an overlay of a volleyball court, and players must knock the ball over the net for scores to count",
+    "Platform": "la Magnavox Odyssey",
+    "PlatformLink": "https://en.wikipedia.org/wiki/Magnavox_Odyssey"
+  },
+  {
+    "Game": "Soccer",
+    "Description": "Two players use paddles to knock a ball back and forth on a screen; uses an overlay of a soccer court and players score only if the ball reaches the opponent's goal on the overlay",
+    "Platform": "la Magnavox Odyssey",
+    "PlatformLink": "https://en.wikipedia.org/wiki/Magnavox_Odyssey"
+  },
+  {
+    "Game": "Handball",
+    "Description": "Two players use paddles to knock a ball back and forth on a screen; uses an overlay of a handball court, and players are both on the same side of the screen with a wall on the other side",
+    "Platform": "la Magnavox Odyssey",
+    "PlatformLink": "https://en.wikipedia.org/wiki/Magnavox_Odyssey"
+  },
+  {
+    "Game": "Prehistoric Safari",
+    "Description": "One player sets their dot on overlays of prehistoric animals, while the other player attempts to shoot the dot with the light gun in as few shots as possible",
+    "Platform": "la Magnavox Odyssey",
+    "PlatformLink": "https://en.wikipedia.org/wiki/Magnavox_Odyssey"
+  },
+  {
+    "Game": "Dogfight!",
+    "Description": "One player moves their dot along a flight path on the overlay, while the other player attempts to shoot it with the light gun",
+    "Platform": "la Magnavox Odyssey",
+    "PlatformLink": "https://en.wikipedia.org/wiki/Magnavox_Odyssey"
+  },
+  {
+    "Game": "Shootout!",
+    "Description": "One player is a bandit in an Old West town, and moves along a path, stopping at windows for the other player to try to shoot with the light gun",
+    "Platform": "la Magnavox Odyssey",
+    "PlatformLink": "https://en.wikipedia.org/wiki/Magnavox_Odyssey"
+  },
+  {
+    "Game": "Shooting Gallery",
+    "Description": "The overlay contains rows of shooting gallery targets, and the player attempts to shoot the computer-controlled dot with the light gun as it moves over them",
+    "Platform": "la Magnavox Odyssey",
+    "PlatformLink": "https://en.wikipedia.org/wiki/Magnavox_Odyssey"
+  },
+  {
+    "Game": "Percepts",
+    "Description": "A racing game in which the overlay has squares containing patterns and symbols on them; players race to the correct square when the corresponding card is drawn from a deck",
+    "Platform": "la Magnavox Odyssey",
+    "PlatformLink": "https://en.wikipedia.org/wiki/Magnavox_Odyssey"
+  },
+  {
+    "Game": "Brain Wave",
+    "Description": "A complicated strategy game using cards and dice",
+    "Platform": "la Magnavox Odyssey",
+    "PlatformLink": "https://en.wikipedia.org/wiki/Magnavox_Odyssey"
+  },
+  {
+    "Game": "W.I.N.",
+    "Description": "Players move their dot to symbols on the overlay to fill out their \"Win card\", while their dot is invisible until the reset button is pressed",
+    "Platform": "la Magnavox Odyssey",
+    "PlatformLink": "https://en.wikipedia.org/wiki/Magnavox_Odyssey"
+  },
+  {
+    "Game": "Basketball",
+    "Description": "Two players use paddles to knock a ball back and forth on a screen; uses an overlay of a basketball court",
+    "Platform": "la Magnavox Odyssey",
+    "PlatformLink": "https://en.wikipedia.org/wiki/Magnavox_Odyssey"
+  },
+  {
+    "Game": "Interplanetary Voyage",
+    "Description": "The player guides their dot, which has momentum, to planets to complete missions given by cards with a maximum number of moves allowed",
+    "Platform": "la Magnavox Odyssey",
+    "PlatformLink": "https://en.wikipedia.org/wiki/Magnavox_Odyssey"
+  }
+]

@@ -1,0 +1,623 @@
+[
+	{
+	  "Game": "The Activision Decathlon",
+	  "GameLink": "https://en.wikipedia.org/wiki/The_Activision_Decathlon",
+	  "Year": 1983,
+	  "Publisher": "Activision",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Activision",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Astro Chase",
+	  "GameLink": "https://en.wikipedia.org/wiki/Astro_Chase",
+	  "Year": 1984,
+	  "Publisher": "Parker Brothers",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Parker_Brothers",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Ballblazer",
+	  "GameLink": "https://en.wikipedia.org/wiki/Ballblazer",
+	  "Year": 1986,
+	  "Publisher": "Atari Corp.",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Atari_Corp.",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Beamrider",
+	  "GameLink": "https://en.wikipedia.org/wiki/Beamrider",
+	  "Year": 1983,
+	  "Publisher": "Activision",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Activision",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Berzerk",
+	  "GameLink": "https://en.wikipedia.org/wiki/Berzerk_(video_game)",
+	  "Year": 1983,
+	  "Publisher": "Atari, Inc.",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Atari,_Inc.",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Blue Print",
+	  "GameLink": "https://en.wikipedia.org/wiki/Blue_Print_(video_game)",
+	  "Year": 1983,
+	  "Publisher": "CBS Electronics",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/CBS_Electronics",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Bounty Bob Strikes Back!",
+	  "GameLink": "https://en.wikipedia.org/wiki/Bounty_Bob_Strikes_Back!",
+	  "Year": 1984,
+	  "Publisher": "Big Five Software",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Big_Five_Software",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Buck Rogers: Planet of Zoom",
+	  "GameLink": "https://en.wikipedia.org/wiki/Buck_Rogers:_Planet_of_Zoom",
+	  "Year": 1983,
+	  "Publisher": "Sega",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Sega",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Centipede",
+	  "GameLink": "https://en.wikipedia.org/wiki/Centipede_(video_game)",
+	  "Year": 1982,
+	  "Publisher": "Atari, Inc.",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Atari,_Inc.",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Choplifter!",
+	  "GameLink": "https://en.wikipedia.org/wiki/Choplifter",
+	  "Year": 1984,
+	  "Publisher": "Atari, Inc.",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Atari,_Inc.",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Congo Bongo",
+	  "GameLink": "https://en.wikipedia.org/wiki/Congo_Bongo",
+	  "Year": 1983,
+	  "Publisher": "Sega",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Sega",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Countermeasure",
+	  "GameLink": null,
+	  "Year": 1982,
+	  "Publisher": "Atari, Inc.",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Atari,_Inc.",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Defender",
+	  "GameLink": "https://en.wikipedia.org/wiki/Defender_(video_game)",
+	  "Year": 1982,
+	  "Publisher": "Atari, Inc.",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Atari,_Inc.",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Dig Dug",
+	  "GameLink": "https://en.wikipedia.org/wiki/Dig_Dug",
+	  "Year": 1983,
+	  "Publisher": "Atari, Inc.",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Atari,_Inc.",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "The Dreadnaught Factor",
+	  "GameLink": "https://en.wikipedia.org/wiki/The_Dreadnaught_Factor",
+	  "Year": 1983,
+	  "Publisher": "Activision",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Activision",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Frogger",
+	  "GameLink": "https://en.wikipedia.org/wiki/Frogger",
+	  "Year": 1983,
+	  "Publisher": "Parker Brothers",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Parker_Brothers",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Frogger II: ThreeeDeep!",
+	  "GameLink": "https://en.wikipedia.org/wiki/Frogger_II:_ThreeeDeep!",
+	  "Year": 1984,
+	  "Publisher": "Parker Brothers",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Parker_Brothers",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Galaxian",
+	  "GameLink": "https://en.wikipedia.org/wiki/Galaxian",
+	  "Year": 1982,
+	  "Publisher": "Atari, Inc.",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Atari,_Inc.",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Gorf",
+	  "GameLink": "https://en.wikipedia.org/wiki/Gorf",
+	  "Year": 1983,
+	  "Publisher": "CBS Electronics",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/CBS_Electronics",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Gremlins",
+	  "GameLink": "https://en.wikipedia.org/wiki/Gremlins_(Atari_5200_game)",
+	  "Year": 1986,
+	  "Publisher": "Atari Corp.",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Atari_Corp.",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Gyruss",
+	  "GameLink": "https://en.wikipedia.org/wiki/Gyruss",
+	  "Year": 1984,
+	  "Publisher": "Parker Brothers",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Parker_Brothers",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "H.E.R.O.",
+	  "GameLink": "https://en.wikipedia.org/wiki/H.E.R.O._(video_game)",
+	  "Year": 1984,
+	  "Publisher": "Activision",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Activision",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "James Bond 007",
+	  "GameLink": "https://en.wikipedia.org/wiki/James_Bond_007_(1983_video_game)",
+	  "Year": 1984,
+	  "Publisher": "Parker Brothers",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Parker_Brothers",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Joust",
+	  "GameLink": "https://en.wikipedia.org/wiki/Joust_(video_game)",
+	  "Year": 1983,
+	  "Publisher": "Atari, Inc.",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Atari,_Inc.",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Jungle Hunt",
+	  "GameLink": "https://en.wikipedia.org/wiki/Jungle_Hunt",
+	  "Year": 1983,
+	  "Publisher": "Atari, Inc.",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Atari,_Inc.",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "K-Razy Shoot-Out",
+	  "GameLink": "https://en.wikipedia.org/wiki/K-Razy_Shoot-Out",
+	  "Year": 1983,
+	  "Publisher": "CBS Electronics",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/CBS_Electronics",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Kaboom!",
+	  "GameLink": "https://en.wikipedia.org/wiki/Kaboom!_(video_game)",
+	  "Year": 1983,
+	  "Publisher": "Activision",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Activision",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Kangaroo",
+	  "GameLink": "https://en.wikipedia.org/wiki/Kangaroo_(video_game)",
+	  "Year": 1983,
+	  "Publisher": "Atari, Inc.",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Atari,_Inc.",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Keystone Kapers",
+	  "GameLink": "https://en.wikipedia.org/wiki/Keystone_Kapers",
+	  "Year": 1984,
+	  "Publisher": "Activision",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Activision",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Mario Bros.",
+	  "GameLink": "https://en.wikipedia.org/wiki/Mario_Bros.",
+	  "Year": 1983,
+	  "Publisher": "Atari, Inc.",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Atari,_Inc.",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Megamania",
+	  "GameLink": "https://en.wikipedia.org/wiki/Megamania",
+	  "Year": 1983,
+	  "Publisher": "Activision",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Activision",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Meteorites",
+	  "GameLink": null,
+	  "Year": 1983,
+	  "Publisher": "Electra Concepts",
+	  "PublisherLink": null,
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Miner 2049er",
+	  "GameLink": "https://en.wikipedia.org/wiki/Miner_2049er",
+	  "Year": 1983,
+	  "Publisher": "Big Five Software",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Big_Five_Software",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Missile Command",
+	  "GameLink": "https://en.wikipedia.org/wiki/Missile_Command",
+	  "Year": 1982,
+	  "Publisher": "Atari, Inc.",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Atari,_Inc.",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Montezuma's Revenge",
+	  "GameLink": "https://en.wikipedia.org/wiki/Montezuma%27s_Revenge_(video_game)",
+	  "Year": 1984,
+	  "Publisher": "Parker Brothers",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Parker_Brothers",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Moon Patrol",
+	  "GameLink": "https://en.wikipedia.org/wiki/Moon_Patrol",
+	  "Year": 1983,
+	  "Publisher": "Atari, Inc.",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Atari,_Inc.",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Mountain King",
+	  "GameLink": "https://en.wikipedia.org/wiki/Mountain_King_(video_game)",
+	  "Year": 1983,
+	  "Publisher": "CBS Electronics",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/CBS_Electronics",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Mr. Do!'s Castle",
+	  "GameLink": "https://en.wikipedia.org/wiki/Mr._Do%27s_Castle",
+	  "Year": 1984,
+	  "Publisher": "Parker Brothers",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Parker_Brothers",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Ms. Pac-Man",
+	  "GameLink": "https://en.wikipedia.org/wiki/Ms._Pac-Man",
+	  "Year": 1983,
+	  "Publisher": "Atari, Inc.",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Atari,_Inc.",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Pac-Man",
+	  "GameLink": "https://en.wikipedia.org/wiki/Pac-Man",
+	  "Year": 1982,
+	  "Publisher": "Atari, Inc.",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Atari,_Inc.",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Pengo",
+	  "GameLink": "https://en.wikipedia.org/wiki/Pengo_(video_game)",
+	  "Year": 1983,
+	  "Publisher": "Atari, Inc.",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Atari,_Inc.",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Pitfall!",
+	  "GameLink": "https://en.wikipedia.org/wiki/Pitfall!",
+	  "Year": 1984,
+	  "Publisher": "Activision",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Activision",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Pitfall II: Lost Caverns",
+	  "GameLink": "https://en.wikipedia.org/wiki/Pitfall_II:_Lost_Caverns",
+	  "Year": 1984,
+	  "Publisher": "Activision",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Activision",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Pole Position",
+	  "GameLink": "https://en.wikipedia.org/wiki/Pole_Position_(video_game)",
+	  "Year": 1983,
+	  "Publisher": "Atari, Inc.",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Atari,_Inc.",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Popeye",
+	  "GameLink": "https://en.wikipedia.org/wiki/Popeye_(video_game)",
+	  "Year": 1983,
+	  "Publisher": "Parker Brothers",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Parker_Brothers",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Q*bert",
+	  "GameLink": "https://en.wikipedia.org/wiki/Q*bert",
+	  "Year": 1983,
+	  "Publisher": "Parker Brothers",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Parker_Brothers",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Qix",
+	  "GameLink": "https://en.wikipedia.org/wiki/Qix",
+	  "Year": 1982,
+	  "Publisher": "Atari, Inc.",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Atari,_Inc.",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Quest for Quintana Roo",
+	  "GameLink": null,
+	  "Year": 1984,
+	  "Publisher": "Sunrise Software",
+	  "PublisherLink": null,
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "RealSports Baseball",
+	  "GameLink": "https://en.wikipedia.org/wiki/RealSports_Baseball",
+	  "Year": 1983,
+	  "Publisher": "Atari, Inc.",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Atari,_Inc.",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "RealSports Football",
+	  "GameLink": "https://en.wikipedia.org/wiki/RealSports_Football",
+	  "Year": 1983,
+	  "Publisher": "Atari, Inc.",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Atari,_Inc.",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "RealSports Soccer",
+	  "GameLink": "https://en.wikipedia.org/wiki/RealSports_Soccer",
+	  "Year": 1983,
+	  "Publisher": "Atari, Inc.",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Atari,_Inc.",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "RealSports Tennis",
+	  "GameLink": "https://en.wikipedia.org/wiki/RealSports_Tennis",
+	  "Year": 1983,
+	  "Publisher": "Atari, Inc.",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Atari,_Inc.",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Rescue on Fractalus!",
+	  "GameLink": "https://en.wikipedia.org/wiki/Rescue_on_Fractalus!",
+	  "Year": 1986,
+	  "Publisher": "Atari Corp.",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Atari_Corp.",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "River Raid",
+	  "GameLink": "https://en.wikipedia.org/wiki/River_Raid",
+	  "Year": 1983,
+	  "Publisher": "Activision",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Activision",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Robotron: 2084",
+	  "GameLink": "https://en.wikipedia.org/wiki/Robotron:_2084",
+	  "Year": 1983,
+	  "Publisher": "Atari, Inc.",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Atari,_Inc.",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Space Dungeon",
+	  "GameLink": "https://en.wikipedia.org/wiki/Space_Dungeon",
+	  "Year": 1983,
+	  "Publisher": "Atari, Inc.",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Atari,_Inc.",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Space Invaders",
+	  "GameLink": "https://en.wikipedia.org/wiki/Space_Invaders",
+	  "Year": 1982,
+	  "Publisher": "Atari, Inc.",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Atari,_Inc.",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Space Shuttle",
+	  "GameLink": "https://en.wikipedia.org/wiki/Space_Shuttle:_A_Journey_into_Space",
+	  "Year": 1983,
+	  "Publisher": "Activision",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Activision",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Star Raiders",
+	  "GameLink": "https://en.wikipedia.org/wiki/Star_Raiders",
+	  "Year": 1982,
+	  "Publisher": "Atari, Inc.",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Atari,_Inc.",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Star Trek: Strategic Operations Simulator",
+	  "GameLink": "https://en.wikipedia.org/wiki/Star_Trek:_Strategic_Operations_Simulator",
+	  "Year": 1983,
+	  "Publisher": "Sega",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Sega",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Star Wars: Return of the Jedi Death Star Battle",
+	  "GameLink": "https://en.wikipedia.org/wiki/Star_Wars:_Return_of_the_Jedi_Death_Star_Battle",
+	  "Year": 1983,
+	  "Publisher": "Parker Brothers",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Parker_Brothers",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Star Wars: The Arcade Game",
+	  "GameLink": "https://en.wikipedia.org/wiki/Star_Wars_(1983_video_game)",
+	  "Year": 1983,
+	  "Publisher": "Parker Brothers",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Parker_Brothers",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Super Breakout",
+	  "GameLink": "https://en.wikipedia.org/wiki/Super_Breakout",
+	  "Year": 1982,
+	  "Publisher": "Atari, Inc.",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Atari,_Inc.",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Super Cobra",
+	  "GameLink": "https://en.wikipedia.org/wiki/Super_Cobra",
+	  "Year": 1983,
+	  "Publisher": "Parker Brothers",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Parker_Brothers",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Vanguard",
+	  "GameLink": "https://en.wikipedia.org/wiki/Vanguard_(video_game)",
+	  "Year": 1983,
+	  "Publisher": "Atari, Inc.",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Atari,_Inc.",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Wizard of Wor",
+	  "GameLink": "https://en.wikipedia.org/wiki/Wizard_of_Wor",
+	  "Year": 1983,
+	  "Publisher": "CBS Electronics",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/CBS_Electronics",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Zaxxon",
+	  "GameLink": "https://en.wikipedia.org/wiki/Zaxxon",
+	  "Year": 1984,
+	  "Publisher": "Sega",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Sega",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Zenji",
+	  "GameLink": "https://en.wikipedia.org/wiki/Zenji_(video_game)",
+	  "Year": 1984,
+	  "Publisher": "Activision",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Activision",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	},
+	{
+	  "Game": "Zone Ranger",
+	  "GameLink": null,
+	  "Year": 1984,
+	  "Publisher": "Activision",
+	  "PublisherLink": "https://en.wikipedia.org/wiki/Activision",
+	  "Platform": "l'Atari 5200",
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Atari_5200"
+	}
+  ]
